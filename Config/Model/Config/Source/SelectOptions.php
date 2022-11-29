@@ -36,7 +36,8 @@ class SelectOptions implements \Magento\Framework\Option\ArrayInterface
             1 => __('Black'),
             2 => __('White'),
             3 => __('Gray'),
-            4 => __('green')
+            4 => __('green'),
+            5 => __('skin')
         ];
     }
 }
